@@ -1,17 +1,17 @@
-# MuhammadNoumanArshad
-# Hi, I'm Muhammad Nouman Arshad 👋
+MuhammadNoumanArshad
+## Hi, I'm Muhammad Nouman Arshad 
 
-### MERN Stack Developer | React Developer | Frontend Engineer
+MERN Stack Developer | React Developer | Frontend Engineer
 
 Building modern, responsive and scalable web applications.
 
-## 🚀 About Me
+## About Me
 
 - 💻 MERN Stack Developer
 - ⚛️ React.js Enthusiast
 - 🎨 UI Development with Tailwind CSS
 - 🌱 Currently learning advanced Backend Development
-- 🔍 Looking for Frontend & MERN Opportunities
+- 🔍 Looking for Frontend & Backend ( MERN Opportunities )
 
 ## 🌐 Connect With Me
 
